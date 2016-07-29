@@ -1,9 +1,10 @@
 {
   "name": "plokko/basecontroller",
   "description": "Helper for creating controllers in laravel",
-  "keywords":["laravel","controller","helper","plokko/formbuilder"],
+  "keywords":["laravel","controller","helper"],
   "require": {
-      "php": ">=5.4"
+      "php": ">=5.4",
+      "plokko/formbuilder": "2.*"
   },
   "require-dev":{},
 
