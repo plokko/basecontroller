@@ -3,8 +3,7 @@
   "description": "Helper for creating controllers in laravel",
   "keywords":["laravel","controller","helper","plokko/formbuilder"],
   "require": {
-      "php": ">=5.4",
-      "plokko/formbuilder": "2.*"
+      "php": ">=5.4"
   },
   "require-dev":{},
 
