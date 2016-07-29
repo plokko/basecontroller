@@ -4,7 +4,7 @@
   "keywords":["laravel","controller","helper"],
   "require": {
       "php": ">=5.4",
-      "plokko/formbuilder": "2.*"
+      "plokko/formbuilder": ">=2.0||dev-master"
   },
   "require-dev":{},
 
